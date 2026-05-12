@@ -1,0 +1,14 @@
+decoded/
+frames/
+video.bin
+pipeline_visualization.png
+qf_vs_ratio.png
+gop_vs_ratio.png
+_tmp.bin
+output.mp4
+
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
